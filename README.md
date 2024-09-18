@@ -141,6 +141,12 @@ If you select the "crime-mystery" category and specify `max_pages` as 1500, the 
 
 - **Data Visualization**: The bar chart will display "crime-mystery" as the category and the total number of items scraped across all pages.
 
+## Screenshots
+
+### Bar Chart Screenshot
+
+![Bar Chart Screenshot](https://github.com/SHAIMOOM251283/WorldOfBooks-Scraper/blob/main/newplot.png)
+   
 ## Conclusion
 
 This project demonstrates efficient web scraping techniques using Python, BeautifulSoup, and multithreading, along with data visualization using Plotly. By leveraging multithreading with the `max_pages` parameter, the scraper can process multiple pages in parallel, drastically improving performance and reducing overall execution time.
