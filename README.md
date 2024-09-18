@@ -141,7 +141,7 @@ If you select the "crime-mystery" category and specify `max_pages` as 1500, the 
 
 - **Data Visualization**: The bar chart will display "crime-mystery" as the category and the total number of items scraped across all pages.
 
-## Screenshots
+## Screenshot
 
 ### Bar Chart Screenshot
 
