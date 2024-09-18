@@ -1,4 +1,4 @@
-# WorldOfBooks Crawler Scraper
+# WorldOfBooks Scraper
 
 ## Overview
 
